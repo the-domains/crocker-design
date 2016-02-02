@@ -1,7 +1,7 @@
 name: Crocker Design
 favicon: null
-layout_spectrum: 0.7069134141784161
-typography_spectrum: 0.4217749198433012
+layout_spectrum: 0.88526
+typography_spectrum: 0.57873
 title: 'Christian Crocker Design & Photography'
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#161b21'
+    - '#685956'
+    - '#98a4a2'
+    - '#308c98'
+    - '#0a5b81'
   brandStrength: 0.16721976408734918
   lightness: 0.4693892220966518
   saturation: 0.9471444254741073
