@@ -1,29 +1,41 @@
-name: Crocker Design
-favicon: null
-layout_spectrum: 0.99581
-typography_spectrum: 0.74288
-title: 'Christian Crocker Design & Photography'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+title: Christian Crocker Design & Photography
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 1
+  brandStrength: 0.1672197640873492
+  lightness: 0.4157706
   brandColors:
     - '#161b21'
     - '#685956'
     - '#98a4a2'
     - '#308c98'
     - '#0a5b81'
-  brandStrength: 0.16721976408734918
-  lightness: 0.4693892220966518
-  saturation: 0.9471444254741073
-  rhythmicContrast: 0.2850379233714193
-purpose: []
+  rhythmicContrast: 0.4516129
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Crocker Design
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.74288
+layout_spectrum: 0.99581
